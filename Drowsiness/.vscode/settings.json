@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\akshay goel\\.conda\\envs\\drowsiness\\python.exe",
+    "python.linting.pylintArgs": ["-iextension-pkg-whitelist = keras"]
+}
