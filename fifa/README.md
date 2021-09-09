@@ -1,6 +1,6 @@
 FIFA PLAYER PREDICTION
 
-Problem-Project to help predict  player ratings for fifa players. To  compare their performance with other players.
+Problem-Project to help predict  player ratings for fifa players. To compare their performance with other players.
 
 Python=3.6
 
