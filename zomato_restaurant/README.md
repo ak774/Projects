@@ -1,5 +1,5 @@
 ZOMATO RESTAURANT PREDICTION
-Project to help different zomato restaurant predict their overall user ratings. To analyze their performance.
+Project to help different zomato restaurants predict their overall user ratings. To analyze their performance.
 
 Python=3.6
 
